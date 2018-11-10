@@ -1,4 +1,4 @@
-# 3. Nutzeroberfläche
+# 3. User interface
 
-Die Nutzeroberfläche des intranda TaskManagers unterteilt sich grundsätzlich in drei Bereiche, die im Folgenden detailliert beschrieben werden sollen. Es handelt sich hierbei um das Dashboard als Übersichtsseite, die Suchmaske sowie die jeweiligen Plugin-Seiten.
+The intranda TaskManager’s user interface is generally divided into three areas: the dashboard \(overview section\), the search box and the individual plugin sections. Each of these is described in detail below.
 

@@ -1,14 +1,14 @@
 # Table of contents
 
 * [intranda TaskManager Documentation](README.md)
-* [1. Einführung](1.md)
-* [2. Was ist der intranda TaskManager](2.md)
-* [3. Nutzeroberfläche](3/README.md)
+* [1. Introduction](1.md)
+* [2. What is the intranda TaskManager](2.md)
+* [3. User interface](3/README.md)
   * [3.1. Dashboard](3/3.1.md)
-  * [3.2. Suche](3/3.2.md)
-  * [3.3. Plugin-Seiten](3/3.3.md)
-* [4. Job-Plugins](4/README.md)
-  * [4.1.  JPEG-2000-Generierung mittels Lurawave](4/4.1.md)
+  * [3.2. Searching](3/3.2.md)
+  * [3.3. Plugin sections](3/3.3.md)
+* [4. Job plugins](4/README.md)
+  * [4.1.  Plugin: JPEG-2000-Generation with Lurawave](4/4.1.md)
   * [4.2. Imagekonvertierung mittels ImageMagick](4/4.2.md)
   * [4.3. JPEG-2000-Generierung mittels Open JPEG](4/4.3.md)
   * [4.4. Validierung von JPEG-2000-Images mittels jpylyzer](4/4.4.md)
@@ -24,6 +24,5 @@
   * [4.14. Plugin: Plugin: Generierung von eBooks im Epub-Format](4/4.14.md)
   * [4.15. Plugin: PDF-Generierung für den intranda viewer](4/4.15.md)
   * [4.16. Plugin: Erstellung eines PDF-Dokumentes für ein gesamtes Werk](4/4.16.md)
-* [5. Zusätzliche Details](5.md)
-
+* [5. Further details](5.md)
 
