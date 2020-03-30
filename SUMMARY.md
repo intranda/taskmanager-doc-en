@@ -22,7 +22,7 @@
   * [4.12. Analysing images using intranda LayoutWizzard](4/4.12.md)
   * [4.13. Distributed storage using Storage Balancer](4/4.13.md)
   * [4.14. Generating ebooks in EPUB format](4/4.14.md)
-  * [4.15. PDF-Generierung für den Goobi viewer](4/4.15.md)
-  * [4.16. Erstellung eines PDF-Dokumentes für ein gesamtes Werk](4/4.16.md)
+  * [4.15. PDF generation for the Goobi viewer](4/4.15.md)
+  * [4.16. Creation of a PDF document for an entire work](4/4.16.md)
 * [5. Further details](5.md)
 
